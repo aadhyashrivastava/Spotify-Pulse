@@ -10,6 +10,7 @@ Spotify Pulse is an interactive music analytics dashboard built using Microsoft 
 - Streaming statistics - Kworb (third-party Spotify streaming statistics)
 - Artist Metadata - Third party artist statistics sources
 - Snapshot Date - 05 November 2026
+  
 These are third party statistics and snapshots, not official live Spotify data. Please refer to the original sources for their definitions and methodology. 
 
 # Dashboard Features:
