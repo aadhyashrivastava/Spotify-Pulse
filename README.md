@@ -16,12 +16,14 @@ These are third party statistics and snapshots, not official live Spotify data. 
 # Dashboard Features:
 1. Streaming performance cards
 2. Top 10 Most streamed songs
-3. Daily Streaming leaders
-4. Artist streaming share
-5. Monthly listener distribution
-6. Followers versus monthly listeners comparison
-7. Global Artists ranking
-8. Interactive artists slicer
+3. Top 10 Most Streamed albums
+4. Daily Streaming leaders
+5. Artist streaming share
+6. Monthly listener distribution
+7. Followers versus monthly listeners comparison
+8. Global Artists ranking
+9. Total Number of Albums
+10. Interactive artists slicer
 
 # Artists Covered:
 Taylor Swift, The Weeknd, Ariana Grande, Billie Eilish, Sabrina Carpenter, Ed Sheeran, Justin Bieber, Dua Lipa, Bruno Mars, Arijit Singh, Shreya Ghoshal, Gracie Abrams, Olivia Rodrigo, One Direction and BTS.
